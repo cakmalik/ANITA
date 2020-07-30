@@ -1,5 +1,5 @@
 ###################
-What is CodeIgniter
+What is ANITA
 ###################
 
 Anita adalah Singkatan dari Aplikasi Penilaian Tahfidz. Aplikasi ini dibuat untuk mempermudah guru / Ustad dalam mengambil dan mengelola hafalan Al-Quran Peserta didik atau Santri yang tengah menghafal Al-Quran.
